@@ -1,0 +1,39 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+/* Header Section */
+.background-header{
+    background-image: url(images/bg_1.jpg);
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+    position: relative;
+    background-size: cover;
+}
+.background-content{
+    padding: 20% 15%;
+
+}
+.background-content h1{
+    color: white;
+    font-size: 60px;
+    text-align: center;
+}
+.background-content p{
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    padding: 2%;
+    margin-bottom: 2%;
+}
+.Click-button{
+    background-color: rgb(225, 84, 33);
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-left: 42%;
+    font-size: 20px;
+}
