@@ -148,6 +148,7 @@ body {
     display: inline-block;
     border: none;
     margin-bottom: 90px;
+    border-radius: 15px;
 }
 
 .color1 {
